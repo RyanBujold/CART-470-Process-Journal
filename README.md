@@ -1,9 +1,11 @@
 # CART-470-Process-Journal
 
 ## Table Of Contents
-[Week 2](#week-2---preparing-for-meeting-with-client)
+* [Week 2](#week-2)
+* [Week 3](#week-3)
 
-##  Week 2 - Preparing for meeting with client
+##  Week 2
+### Preparing for the meeting with client
 This week was spent learning about our client [Abtec][abtec] and preparing questions for our meeting next week. We all decided to look at the [Second Life][second-life] museum exhibit ["Old Cars Make My Nipples Hard"][old-cars-exhibit], since our client's goal is have similar exhibits in a game engine. While exploring, we got a better understanding of the exhibit itself. We found that there were aspects that were either clunky or archaic. But wee were unsure if these parts were the way they were because of the limitations of [Second Life][second-life] or because they were intentional decisions. The best example for this is the firing range. It only let's you use it at certain times and you have to email the museum owners for permission. We want ask the client about the reasoning behind this functionality and how we should go about adapting it.
 
 While coming up for ideas on possible changes to the exhibit, I suggested we could have dynamic presentation. Since some of the playback functionality for videos was a bit cumbersome, I wondered if maybe they could play automatically. It would be like a guided tour that highlights different areas and plays videos automatically as they arrive. This is just one of the many ideas our group had when discussing improvements and changes.
@@ -12,9 +14,18 @@ Another important point of discussion is what engine we should use to build the 
 
 After our discussions, we now have a better idea of what the client wants from us. That is to take this [Second Life][second-life] Exhibit and bring it to a more modern and flexible platform. In our meeting, we plan to get a better idea of what should be changed and what should be kept. As well as suggestions for additions that are possible with newer game engines.
 
+## Week 3
+### Meeting with the client
+This week we met with Nancy and Arjit from [Abtec][abtec]. It began with the pair illustrating a clearer idea of what they are looking for in the project. Their main concern is that [Second Life][second-life] may shut down soon so they want to start creating a more sustainable platform for virtual exhibits. After we asked our prepared questions and discussed further, we were set on developing a simple prototype. The main question that the prototypes will answer is "Which game engine will look the best while providing flexibility in terms of features such as VR?" With this question in mind, we are going to prepare a simple prototype in [Unity][unity], [Unreal Engine][unreal] and [Godot][godot]. Two of these will have web functionality and one will have VR support. With these prepared, we will have the lead director [Skawennati][ska] compare them to decide what we should use next.
+
+We began organizing ourselves into roles to better work on this sprint. We were each assigned to different game engines depending on our affinities towards each. One of us was also made in charge of communicating with our client for information and to obtain assets necessary for the prototype. 
+
+
+
 [abtec]: https://abtec.org/
 [second-life]: https://secondlife.com/
 [old-cars-exhibit]: https://gallery.abtec.org/exhibition/old-cars-make-my-nipples-hard-kayas-otapanaskwak-cimasowihewak-nicohcosimisa/
 [unity]: https://unity.com/
 [godot]: https://godotengine.org/
 [unreal]: https://www.unrealengine.com/
+[ska]: https://skawennati.com/
