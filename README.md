@@ -18,9 +18,9 @@ After our discussions, we now have a better idea of what the client wants from u
 ### Meeting with the client
 This week we met with Nancy and Arjit from [Abtec][abtec]. It began with the pair illustrating a clearer idea of what they are looking for in the project. Their main concern is that [Second Life][second-life] may shut down soon so they want to start creating a more sustainable platform for virtual exhibits. After we asked our prepared questions and discussed further, we were set on developing a simple prototype. The main question that the prototypes will answer is "Which game engine will look the best while providing flexibility in terms of features such as VR?" With this question in mind, we are going to prepare a simple prototype in [Unity][unity], [Unreal Engine][unreal] and [Godot][godot]. Two of these will have web functionality and one will have VR support. With these prepared, we will have the lead director [Skawennati][ska] compare them to decide what we should use next.
 
-We began organizing ourselves into roles to better work on this sprint. We were each assigned to different game engines depending on our affinities towards each. One of us was also made in charge of communicating with our client for information and to obtain assets necessary for the prototype. 
+We began organizing ourselves into roles to better work on this sprint. We were each assigned to different game engines depending on our affinities towards each. One of us was also made in charge of communicating with our client for information and to obtain assets necessary for the prototype. Lastly, a date to meet with [Skawennati][ska] and present the prototypes was decided for October 8th. 
 
-
+This week gave a lot of important answers to guide us further towards our desired final vision. I'm certain the next meeting [Skaweenati][ska] will help give us even further insight into designing this project. Our client is also being very flexible time wise with us and that will be very helpful since I believe it will become programming heavy very quickly. I'm looking forward to what we can all come up with as a team.
 
 [abtec]: https://abtec.org/
 [second-life]: https://secondlife.com/
