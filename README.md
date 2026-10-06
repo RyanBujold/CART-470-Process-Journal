@@ -3,6 +3,7 @@
 ## Table Of Contents
 * [Week 2](#week-2)
 * [Week 3](#week-3)
+* [Week 4](#week-4)
 
 ##  Week 2
 ### Preparing for the meeting with client
@@ -22,6 +23,12 @@ We began organizing ourselves into roles to better work on this sprint. We were 
 
 This week gave a lot of important answers to guide us further towards our desired final vision. I'm certain the next meeting [Skaweenati][ska] will help give us even further insight into designing this project. Our client is also being very flexible time wise with us and that will be very helpful since I believe it will become programming heavy very quickly. I'm looking forward to what we can all come up with as a team.
 
+## Week 4
+### Working on the prototype
+After deliberating with Sabine, we appear to be on the right track. So we all went forward with finishing the prototypes for the end of this week. However, when in communications with [Abtec][abtec], they let us know that they couldn't be available for our scheduled meeting. So now, we will meet next week and have some time to polish the prototypes.
+
+I did some work on the unity project. Mainly I helped to create a simple scene in [Unity][unity]. This included the blender files that our client provided for us to display and view. I made sure to program a movable camera so that we could navigate and view the models from different angles. All of it running on a high resolution pipeline. Although some problems began to emerge, as [github][github] had trouble with some of the bigger files. This had led to a series of bugs and subsequent fixes that have been a headache to deal with. Luckily, the extra time we now have will help us make sure the project is finished.
+
 [abtec]: https://abtec.org/
 [second-life]: https://secondlife.com/
 [old-cars-exhibit]: https://gallery.abtec.org/exhibition/old-cars-make-my-nipples-hard-kayas-otapanaskwak-cimasowihewak-nicohcosimisa/
@@ -29,3 +36,4 @@ This week gave a lot of important answers to guide us further towards our desire
 [godot]: https://godotengine.org/
 [unreal]: https://www.unrealengine.com/
 [ska]: https://skawennati.com/
+[github]: https://github.com/why-github
