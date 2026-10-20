@@ -4,6 +4,7 @@
 * [Week 2](#week-2)
 * [Week 3](#week-3)
 * [Week 4](#week-4)
+* [Week 5](#week-5)
 
 ##  Week 2
 ### Preparing for the meeting with client
@@ -29,6 +30,14 @@ After deliberating with Sabine, we appear to be on the right track. So we all we
 
 I did some work on the unity project. Mainly I helped to create a simple scene in [Unity][unity]. This included the blender files that our client provided for us to display and view. I made sure to program a movable camera so that we could navigate and view the models from different angles. All of it running on a high resolution pipeline. Although some problems began to emerge, as [github][github] had trouble with some of the bigger files. This had led to a series of bugs and subsequent fixes that have been a headache to deal with. Luckily, the extra time we now have will help us make sure the project is finished.
 
+## Week 5
+### Prototype Demo
+After all of our hard work with the prototypes, we finally were ready to present them to [Skawennati][ska]. Arjit and Nancy were also there to help with the project. First we showed off the extra work we did for them in [Blender][blender]. Nadia had remade their models to be more modular and game ready. They seemed to like the modular approach and appreciated the extra work. As for the prototypes, first was the [Godot][godot] project that Bea and Jeremy worked on. It looked nice enough that [Skawennati][ska] kept wanting to view their celestial tree in multiple angles. The [Unity][unity] project was next and does not come across as good. Me and Alex made our grievances about using [Unity][unity] clear but I still played devil's advocate for the platform as it still is industry standard. Finally, it was Nadia's [Unreal][unreal] prototype. It was obviously the best looking of the three and [Skawennati][ska] definitely appreciated it's visuals. 
+
+The next part was outlining the pros and cons of each while also figuring out the best choice for Abtec. Their biggest concern is still that if [Second Life][second-life] disappeared tomorrow, they would want a backup. The best choice for this seemed to be [Godot][godot] since it offered web support, was easy to use and will surely become the new industry standard. On the other hand, [Unreal's][unreal] visuals were just too good to pass up. What we ended up deciding on was having two version. An accessible web version made with [Godot][godot] that anyone could access to see the gallery. As well as a VR version made with [Unreal][unreal] that would allow for exploring the gallery in an immersive way. 
+
+Coming out of this meaning, we have definitely agreed to more work that we expected to. Yet, since we are a bigger team with good experience, we are confident we can make something good. Worst case, if it all goes unfinished, we are focused on making tools so that anyone who works on this in the future will have an easy time.
+
 [abtec]: https://abtec.org/
 [second-life]: https://secondlife.com/
 [old-cars-exhibit]: https://gallery.abtec.org/exhibition/old-cars-make-my-nipples-hard-kayas-otapanaskwak-cimasowihewak-nicohcosimisa/
@@ -37,3 +46,4 @@ I did some work on the unity project. Mainly I helped to create a simple scene i
 [unreal]: https://www.unrealengine.com/
 [ska]: https://skawennati.com/
 [github]: https://github.com/why-github
+[blender]: https://www.blender.org/
