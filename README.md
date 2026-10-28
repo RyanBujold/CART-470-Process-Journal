@@ -5,6 +5,7 @@
 * [Week 3](#week-3)
 * [Week 4](#week-4)
 * [Week 5](#week-5)
+* [Week 6](#week-6)
 
 ##  Week 2
 ### Preparing for the meeting with client
@@ -37,6 +38,10 @@ After all of our hard work with the prototypes, we finally were ready to present
 The next part was outlining the pros and cons of each while also figuring out the best choice for Abtec. Their biggest concern is still that if [Second Life][second-life] disappeared tomorrow, they would want a backup. The best choice for this seemed to be [Godot][godot] since it offered web support, was easy to use and will surely become the new industry standard. On the other hand, [Unreal's][unreal] visuals were just too good to pass up. What we ended up deciding on was having two version. An accessible web version made with [Godot][godot] that anyone could access to see the gallery. As well as a VR version made with [Unreal][unreal] that would allow for exploring the gallery in an immersive way. 
 
 Coming out of this meaning, we have definitely agreed to more work that we expected to. Yet, since we are a bigger team with good experience, we are confident we can make something good. Worst case, if it all goes unfinished, we are focused on making tools so that anyone who works on this in the future will have an easy time.
+
+## Week 6
+### Organizing
+Going forward with the project, we got to organizing our tasks. Me, Bea and Jeremy have divided the tasks for the web version of the project, while Alex and Nadia work on the VR version. We are also making sure to document any and all code. This will make it easier for when [Abtec][abtec] works on it without our team to help. Finally, we are begining to work on our presentation for next week. Overall, things are going well and at a steady pace.
 
 [abtec]: https://abtec.org/
 [second-life]: https://secondlife.com/
