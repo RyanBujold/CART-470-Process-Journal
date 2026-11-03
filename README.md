@@ -6,6 +6,7 @@
 * [Week 4](#week-4)
 * [Week 5](#week-5)
 * [Week 6](#week-6)
+* [Week 7](#week-7)
 
 ##  Week 2
 ### Preparing for the meeting with client
@@ -42,6 +43,10 @@ Coming out of this meaning, we have definitely agreed to more work that we expec
 ## Week 6
 ### Organizing
 Going forward with the project, we got to organizing our tasks. Me, Bea and Jeremy have divided the tasks for the web version of the project, while Alex and Nadia work on the VR version. We are also making sure to document any and all code. This will make it easier for when [Abtec][abtec] works on it without our team to help. Finally, we are begining to work on our presentation for next week. Overall, things are going well and at a steady pace.
+
+## Week 7
+### Continuing Work
+Not much to discuss this week, as we all have continued to work on our respective tasks. Preparations for the presentation are also nearing completion. I feel as though we are working well as a team. Accommodating each other's schedules and getting things done. I can say that I feel almost too little pressure with the workload. But that just means we can go the extra mile for our client if we wish.
 
 [abtec]: https://abtec.org/
 [second-life]: https://secondlife.com/
