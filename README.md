@@ -7,6 +7,7 @@
 * [Week 5](#week-5)
 * [Week 6](#week-6)
 * [Week 7](#week-7)
+* [Week 8](#week-8)
 
 ##  Week 2
 ### Preparing for the meeting with client
@@ -47,6 +48,10 @@ Going forward with the project, we got to organizing our tasks. Me, Bea and Jere
 ## Week 7
 ### Continuing Work
 Not much to discuss this week, as we all have continued to work on our respective tasks. Preparations for the presentation are also nearing completion. I feel as though we are working well as a team. Accommodating each other's schedules and getting things done. I can say that I feel almost too little pressure with the workload. But that just means we can go the extra mile for our client if we wish.
+
+## Week 8
+### Teamwork
+We had a few members that had some medical emergencies, so our presentation had to be delayed a week. It also meant that progress slowed a bit, but we are still on track. This week, I finally finished something substantial by fixing and implementing the camera system for our game. There were some moments of confusion, since I was working with modifying other people's code. But I was able to clear things up with help from my teammates. I feel as though are roles are quite well settled now and everyone is in their lane. But at the same time, everyone is helping each other when needed. 
 
 [abtec]: https://abtec.org/
 [second-life]: https://secondlife.com/
