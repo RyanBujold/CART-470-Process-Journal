@@ -8,6 +8,7 @@
 * [Week 6](#week-6)
 * [Week 7](#week-7)
 * [Week 8](#week-8)
+* [Week 9](#week-9)
 
 ##  Week 2
 ### Preparing for the meeting with client
@@ -52,6 +53,10 @@ Not much to discuss this week, as we all have continued to work on our respectiv
 ## Week 8
 ### Teamwork
 We had a few members that had some medical emergencies, so our presentation had to be delayed a week. It also meant that progress slowed a bit, but we are still on track. This week, I finally finished something substantial by fixing and implementing the camera system for our game. There were some moments of confusion, since I was working with modifying other people's code. But I was able to clear things up with help from my teammates. I feel as though are roles are quite well settled now and everyone is in their lane. But at the same time, everyone is helping each other when needed. 
+
+## Week 9
+## Interactions
+This week, I was able to get both the player controller and the interactions finished. The player controller, is important for letting the users look around and navigate the museum. While the interactions, are how they will interact with the items to see things such as text descriptions or videos. The framework I made, is a good baseline for future expansion and is well commented according to my teammates. The core structure of the game/project is really coming along and I feel like we are rapidly approaching what we envisioned for the project. I have a feeling our client will be very happy with our results. At least that is true for the [Godot][godot] version. I believe the [Unreal][unreal] had some issues but is now moving smoothly. Everyone is still doing their best and the project is turning out well because of it.
 
 [abtec]: https://abtec.org/
 [second-life]: https://secondlife.com/
