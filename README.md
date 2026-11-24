@@ -9,6 +9,7 @@
 * [Week 7](#week-7)
 * [Week 8](#week-8)
 * [Week 9](#week-9)
+* [Week 10](#week-10)
 
 ##  Week 2
 ### Preparing for the meeting with client
@@ -55,8 +56,12 @@ Not much to discuss this week, as we all have continued to work on our respectiv
 We had a few members that had some medical emergencies, so our presentation had to be delayed a week. It also meant that progress slowed a bit, but we are still on track. This week, I finally finished something substantial by fixing and implementing the camera system for our game. There were some moments of confusion, since I was working with modifying other people's code. But I was able to clear things up with help from my teammates. I feel as though are roles are quite well settled now and everyone is in their lane. But at the same time, everyone is helping each other when needed. 
 
 ## Week 9
-## Interactions
+### Interactions
 This week, I was able to get both the player controller and the interactions finished. The player controller, is important for letting the users look around and navigate the museum. While the interactions, are how they will interact with the items to see things such as text descriptions or videos. The framework I made, is a good baseline for future expansion and is well commented according to my teammates. The core structure of the game/project is really coming along and I feel like we are rapidly approaching what we envisioned for the project. I have a feeling our client will be very happy with our results. At least that is true for the [Godot][godot] version. I believe the [Unreal][unreal] had some issues but is now moving smoothly. Everyone is still doing their best and the project is turning out well because of it.
+
+## Week 10
+### Nearing completion
+The [Godot][godot] project is going very well. We now have all our work merged onto main and functioning properly. From this point on, we are nearing the end of our project. With the interactions framework working properly, we now just have to apply it to the 'Shooting the Indian act'. I do think that it might be a bit more difficult to work on. Because instead of us working on separate components, we might all be working on the shooting functionality. I'm sure we will figures something out, because thus far, we have been doing very well with staying on pace. I feel like Nadia is especially going the extra mile. Not only heading the [Unreal][unreal] build but also making [Blender][blender] models for both projects to use. Jeremy has also been a great help for navigating the [Godot][godot] landscape. Bea has been doing great work with documentation and Alex helps with keeping our client up to date. Speaking of communications, we do need to have a few more things clarified for the final presentation or features they want by next meeting. Overall, everyone is doing great work and I feel the final product will turn out well.
 
 [abtec]: https://abtec.org/
 [second-life]: https://secondlife.com/
